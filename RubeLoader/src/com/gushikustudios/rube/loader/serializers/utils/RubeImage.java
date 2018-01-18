@@ -1,3 +1,4 @@
+
 package com.gushikustudios.rube.loader.serializers.utils;
 
 import com.badlogic.gdx.graphics.Color;
